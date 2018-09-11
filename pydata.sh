@@ -12,6 +12,9 @@ echo "Setting up pip."
 # Install pip
 easy_install pip
 
+# used for ansible google cloud platform
+pip install apache-libcloud
+
 ###############################################################################
 # Virtual Enviroments                                                         #
 ###############################################################################
