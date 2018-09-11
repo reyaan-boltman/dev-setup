@@ -157,6 +157,7 @@ brew cask install --appdir="/Applications" dash
 brew cask install --appdir="/Applications" sequel-pro
 brew cask install --appdir="/Applications" insomnia
 brew cask install --appdir="/Applications" phpstorm
+brew cask install --appdir="/Applications" pycharm-ce
 brew cask install ngrok
 
 # Misc casks
