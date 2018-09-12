@@ -159,6 +159,7 @@ brew cask install --appdir="/Applications" insomnia
 brew cask install --appdir="/Applications" phpstorm
 brew cask install --appdir="/Applications" pycharm-ce
 brew cask install ngrok
+brew cask install google-cloud-sdk
 
 # Misc casks
 brew cask install --appdir="/Applications" google-chrome
@@ -173,6 +174,7 @@ brew cask install --appdir="/Applications" gimp
 #brew cask install --appdir="/Applications" inkscape
 brew cask install --appdir="/Applications" boostnote
 brew cask install --appdir="/Applications" enpass
+brew cask install --appdir="/Applications" google-drive-file-stream
 
 
 #Remove comment to install LaTeX distribution MacTeX
